@@ -4,5 +4,5 @@
 
 # WebScIT
 
-:computer: :globe_with_meridians: Web technologies for scientific tools :mag: :bulb:
+:computer: :globe_with_meridians: Web technologies for science :mag: :bulb:
 </div>
